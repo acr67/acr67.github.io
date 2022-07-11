@@ -11,7 +11,7 @@ const social = [
 
 	/*{ icon: icon.SiInstagram, link: 'https://instagram.com/xanny.rivera' },*/
 	
-	{ icon: icon.SiLinkedin, link: 'https://www.linkedin.com/alexandraceciliarivera' },
+	{ icon: icon.SiLinkedin, link: 'https://www.linkedin.com/in/alexandraceciliarivera/' },
 ];
 
 const brand = 'ACR'
