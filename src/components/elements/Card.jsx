@@ -18,7 +18,7 @@ const Card = ({ name, description, stack, linkProject, linkGithub }) => {
 					)
 				}
 			</div>
-			<div className="Card-links">
+			{/*<div className="Card-links">
 				<a 
 					href={linkProject} 
 					className="Card-link-project"
@@ -33,7 +33,7 @@ const Card = ({ name, description, stack, linkProject, linkGithub }) => {
 					>
 					<SiGithub className="Card-icon-github"/>
 				</a>
-			</div>
+			</div>*/}
 		</div>
 	);
 }

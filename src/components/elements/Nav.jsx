@@ -25,10 +25,10 @@ const Nav = () => {
 			<div className="Nav-menu" data-show={menu} onClick={(e) => handleMenu(e)}>
 				<div className="Nav-menu-wrapper">
 					<a className="Nav-link" href="#work" onClick={() => setMenu(false)}>
-						Work.
+						Experience.
 					</a>
 					<a className="Nav-link" href="#stack" onClick={() => setMenu(false)}>
-						Stack.
+						Skills.
 					</a>
 					<a className="Nav-link" href="#contact" onClick={() => setMenu(false)}>
 						Contact.

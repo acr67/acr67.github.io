@@ -12,7 +12,8 @@ const Contact = () => {
 				<h2 className="Contact-h2 section-head">Contact.</h2>
 				<div className="container-sm">
 					<h3 className="Contact-h3">
-						<a href={`mailto:${email}`}>Get in touch!</a>
+						{/*<a href={`mailto:${email}`}>Get in touch!</a>*/}
+						Get in touch!
 					</h3>
 					<p className="Contact-description">
 						{description}
